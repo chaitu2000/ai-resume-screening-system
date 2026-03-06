@@ -1,3 +1,3 @@
-G.L.V Chaitanya Raju
+Candidate A
 Python, SQL, PySpark, Databricks, Azure Data Factory, ETL pipelines, Spark, cloud computing
 Built data engineering projects and machine learning projects using Python and Azure tools.
