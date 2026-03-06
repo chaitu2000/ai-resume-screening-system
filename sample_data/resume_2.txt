@@ -1,0 +1,3 @@
+Candidate B
+Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, testing, cloud basics
+Experience with backend systems and software development.
